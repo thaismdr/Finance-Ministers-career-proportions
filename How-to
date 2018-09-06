@@ -1,0 +1,9 @@
+There are three databases, each one to a political period: 1889 to 1930, 1930 o 1964 and 1964 to 2015. 
+The tables are identical in scheme. 
+"Nome" stands for the ministers' names.
+"propprivado" stands for the proportion of the amount of time ministers' dedicated themselves to activities in the private sector.
+"proppublico" stands for the proportion of the amount of time ministers' dedicated themselves to activities in the public sector.
+"proppolitico" stands for the proportion of the amount of time ministers' dedicated themselves to elective office.
+"propecono" stands for the proportion of the amount of time ministers' dedicated themselves to Economics, either as scholars or as professionals.
+The data was obtained through biographical data avaiable on pertinent sources described in Filipi, 2018 listed at the bottom.
+See https://acervodigital.ufpr.br/bitstream/handle/1884/57252/R%20-%20D%20-%20THAIS%20MADEIRA%20FILIPI.pdf?sequence=1&isAllowed=y
